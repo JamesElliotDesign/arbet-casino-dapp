@@ -57,10 +57,8 @@ var dashRoutes = [
   {
         path: "/signup",
         name: "ABC Lottery",
-        rtlName: "لوحة القيادة",
         icon: <RocketIcon color="inherit" />,
-        secondaryNavbar: true,
-        component: SignUp,
+       component: SignUp,
         layout: "/admin",
   },
 ];
