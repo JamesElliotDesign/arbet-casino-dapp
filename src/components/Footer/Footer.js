@@ -77,7 +77,7 @@ export default function Footer(props) {
         <ListItem>
           <Link
             color="gray.400"
-            href="https://discord.com/invite/wevpVzbm"
+            href="https://discord.com/invite/cpBttMsWtC"
           >
             {document.documentElement.dir === "rtl" ? "رخصة" : "Discord"}
           </Link>
